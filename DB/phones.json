@@ -1,0 +1,13 @@
+{"_id":{"$oid":"5e32a44b37a6611a8835119e"},"name":"Samsung Galaxy","price":{"$numberInt":"50000"},"type":"S8","imgUrl":"https://www.ideabeam.com/images/product/big/samsung-galaxy-s8.jpg","shop":"Idealz"}
+{"_id":{"$oid":"5e352eceed6881231c404e43"},"name":"Sony Xperia","price":{"$numberInt":"30000"},"type":"Z2","imgUrl":"https://www.ideabeam.com/images/product/big/sony-xperia-z2.jpg","shop":"Darshana Mobile"}
+{"_id":{"$oid":"5e4a8573fe29b21ac0dab8e3"},"name":"Nokia","price":{"$numberInt":"10000"},"type":"101 ","imgUrl":"https://www.ideabeam.com/images/product/big/nokia-101.jpg","shop":"Idealz"}
+{"_id":{"$oid":"5e4a85a7fe29b21ac0dab8e4"},"name":"Nokia","price":{"$numberInt":"16150"},"type":"1 Plus ","imgUrl":"https://www.ideabeam.com/images/product/big/nokia-1-plus.jpg","shop":"Dealz Woot"}
+{"_id":{"$oid":"5e4a85dafe29b21ac0dab8e5"},"name":"Samsung Galaxy","price":{"$numberInt":"57900"},"type":"A70s","imgUrl":"https://www.ideabeam.com/images/product/big/samsung-galaxy-a70s.jpg","shop":"Doctor Mobile"}
+{"_id":{"$oid":"5e4a8625fe29b21ac0dab8e6"},"name":"Huawei","price":{"$numberInt":"37400"},"type":"Y9s","imgUrl":"https://www.ideabeam.com/images/product/big/huawei-y9s.jpg","shop":"Greenware"}
+{"_id":{"$oid":"5e4a865efe29b21ac0dab8e7"},"name":"Xiaomi Mi","price":{"$numberInt":"74900"},"type":"9T Pro","imgUrl":"https://www.ideabeam.com/images/product/big/xiaomi-mi-9t-pro-128gb.jpg","shop":"New Present Solution"}
+{"_id":{"$oid":"5e4a872cfe29b21ac0dab8e8"},"name":"Google","price":{"$numberInt":"100000"},"type":"Pixel","imgUrl":"https://www.ideabeam.com/images/product/big/google-pixel.jpg","shop":"Darshana Mobiles"}
+{"_id":{"$oid":"5e4a8769fe29b21ac0dab8e9"},"name":"Huawei Honor","price":{"$numberInt":"50000"},"type":"Note 10","imgUrl":"https://www.ideabeam.com/images/product/big/huawei-honor-note-10.jpg","shop":"Idealz"}
+{"_id":{"$oid":"5e4a87a8fe29b21ac0dab8ea"},"name":"Samsung galaxy","price":{"$numberInt":"122000"},"type":"note 9","imgUrl":"https://www.ideabeam.com/images/product/big/samsung-galaxy-note-9.jpg","shop":"Daraz"}
+{"_id":{"$oid":"5e4a87e4fe29b21ac0dab8eb"},"name":"Apple","price":{"$numberInt":"167000"},"type":"iPhone 11","imgUrl":"https://www.ideabeam.com/images/product/big/apple-iphone-11.jpg","shop":"Selfie Mobiles"}
+{"_id":{"$oid":"5e4a90dffe29b21ac0dab8ec"},"name":"Apple ","price":{"$numberInt":"102500"},"type":"iPhone 7","imgUrl":"https://www.ideabeam.com/images/product/big/apple-iphone-7-32gb.jpg","shop":"Dealz Woot"}
+{"_id":{"$oid":"5e4a911bfe29b21ac0dab8ed"},"name":"Vivo","price":{"$numberInt":"40000"},"type":"Y19","imgUrl":"https://www.ideabeam.com/images/product/big/vivo-y19.jpg","shop":"Doctor Mobile"}
