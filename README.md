@@ -1,7 +1,6 @@
 # phone-price-comparer
 
 ### Author  - Senevirathna M.G.T.T.
-### Reg. No - EG/2015/2766 
 
 ### (Please download the frontend using the Google docs link provided in the report.)
 ### Edit : The frontend files are now added to the repository. (Frontend with the modules can still be accessed through the google docs)
